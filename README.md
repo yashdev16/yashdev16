@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @yashdev16
-- 👀 I’m interested in web devlopment...
-- 🌱 I’m currently learning backend devleopment...
-- 💞️ I’m looking to collaborate on ..web projects especially in frontend.
-- 📫 How to reach me ...you can contact me via twitter {yash dixit}
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+<img width="100%" alt="DEVElOPER" src="https://github.com/yashdev16/yashdev16/blob/main/9070324cdfc07c68d60eed0c39e77573.gif">
+</div>
+
+<h1 align="center">Yash</h1>
+
+[DM me on twitter] (https://x.com/yashtranaut)
 
 <!---
 yashdev16/yashdev16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
